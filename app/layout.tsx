@@ -1,9 +1,9 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Sense+ | AI-Powered Health Insights",
+  title: "Sense+",
   description:
-    "Sense+ is an AI-powered health awareness app that helps you understand symptoms using images and prompts. Coming soon.",
+    "Understand your health. Clearly..",
 };
 
 export default function RootLayout({
